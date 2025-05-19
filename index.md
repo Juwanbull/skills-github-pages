@@ -45,3 +45,15 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Us | VetTech Connect</title>
+</head>
+<body>
+    <h1>About Us</h1>
+    <p>This page is currently under construction. Please check back soon!</p>
+    <a href="index.html">Return to Home</a>
+</body>
+</html>
