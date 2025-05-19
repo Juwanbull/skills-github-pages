@@ -36,7 +36,7 @@
         VetTech Connect is a mission-driven digital platform dedicated to supporting U.S. military veterans in transitioning from service to careers in information technology. 
         We serve as a one-stop-shop for guidance, training, and opportunities in the evolving tech industry.
     </p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
 </main>
 
 <footer>
@@ -53,7 +53,7 @@
 </head>
 <body>
     <h1>About Us</h1>
-    <p>This page is currently under construction. Please check back soon!</p>
+    <p>This page is currently under construction. Please check back soon</p>
     <a href="index.html">Return to Home</a>
 </body>
 </html>
@@ -65,7 +65,31 @@
 </head>
 <body>
     <h1>Resources</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in porta justo. Suspendisse potenti.</p>
+    <p>This page is currently under construction. Please check back soon!.</p>
+    <a href="index.html">Return to Home</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Careers | VetTech Connect</title>
+</head>
+<body>
+    <h1>Careers</h1>
+    <p>This section is currently under development. Career listings and guidance will be available soon.</p>
+    <a href="index.html">Return to Home</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact | VetTech Connect</title>
+</head>
+<body>
+    <h1>Contact Us</h1>
+    <p>This page is under construction. For now, please reach out via email or social media.</p>
     <a href="index.html">Return to Home</a>
 </body>
 </html>
