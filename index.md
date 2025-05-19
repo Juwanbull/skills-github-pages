@@ -57,3 +57,15 @@
     <a href="index.html">Return to Home</a>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resources | VetTech Connect</title>
+</head>
+<body>
+    <h1>Resources</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in porta justo. Suspendisse potenti.</p>
+    <a href="index.html">Return to Home</a>
+</body>
+</html>
